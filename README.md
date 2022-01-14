@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finnroblin
-- 👀 I’m interested in software engineering, quantitative finance, and machine learning.
-- 🌱 I’m currently learning discrete math, intro to data structures and algorithms, and Buddhism at the University of Michigan. 
+- 👀 I’m interested in software engineering, quantitative finance, and machine learning. 
+- 🌱 I’m at the University of Michigan, where I'm taking data structures and algorithms, linear algebra, and a sampling of intellectual breadth courses.
 - 📫 You can reach me at finn . s . roblin (at) gmail or connect with me on LinkedIn: https://www.linkedin.com/in/finn-roblin
 
 <!---
